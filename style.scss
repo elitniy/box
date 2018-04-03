@@ -1,0 +1,18 @@
+#animaSection{
+	margin: 0 auto;
+	.box{
+		margin-left: 50px;
+		margin-top:300px;
+		width: 50px;
+		height: 50px;
+		background-color:green;
+		border:1px solid black;
+
+		.tochka{
+			width: 5px;
+			height: 5px;
+			border-radius:50%;
+			background-color:white;
+		}
+	}
+}
